@@ -1,5 +1,5 @@
 # lune-powerio
-PowerShell powered I/O library for lune
+PowerShell powered I/O library for Lune
 
 ## Installation
 Use git submodule.
