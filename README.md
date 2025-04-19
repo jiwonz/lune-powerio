@@ -1,4 +1,4 @@
-# powerio-lune
+# lune-powerio
 PowerShell powered I/O library for lune
 
 ## Installation
@@ -18,4 +18,4 @@ local answer = powerio.promptMessageBox("Title", "Message", "YesNo", "Informatio
 ```
 
 ## TODO
-- Support environments without powershell
+- [ ] Support environments without powershell
