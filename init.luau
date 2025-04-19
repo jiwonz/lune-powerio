@@ -1,5 +1,3 @@
---!strict
-
 local process = require("@lune/process")
 local stdio = require("@lune/stdio")
 local getScriptPath = require("submodules/getScriptPath")
